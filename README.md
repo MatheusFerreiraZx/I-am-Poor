@@ -1,5 +1,5 @@
 # I-Am-Poor
-It's an App that I made during Angela Yu's iOS development course.
+This app is a parody of the famous app in iOS development history, the I am Rich.
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
